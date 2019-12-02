@@ -1,5 +1,5 @@
 # deterministicSOM
-The implementation of IEEE Big Data 19 paper "A deterministic self-organizing map approach and its application on satellite data based cloud type classification". Detailded information can be found in [deterministicSOM](https://ieeexplore.ieee.org/abstract/document/8622558).  
+DeterministicSOM refers to the proposed determinized self-organizing map (SOM), which provides an automatic data analysis technique to help produce a low-dimensional representation of the high-dimensional input space with random eliminators. Detailded information and its application on satellite data based cloud type classification can be found in [deterministicSOM](https://ieeexplore.ieee.org/abstract/document/8622558).  
 
 ## Instructions
 1. Clone this repository.
