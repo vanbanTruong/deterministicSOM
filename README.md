@@ -1,5 +1,5 @@
 # deterministicSOM
-Implementation of IEEE Big Data 19 paper "A deterministic self-organizing map approach and its application on satellite data based cloud type classification". Detailded information can be found in [deterministicSOM](https://ieeexplore.ieee.org/abstract/document/8622558).  
+The implementation of IEEE Big Data 19 paper "A deterministic self-organizing map approach and its application on satellite data based cloud type classification". Detailded information can be found in [deterministicSOM](https://ieeexplore.ieee.org/abstract/document/8622558).  
 
 ## Instructions
 1. Clone this repository.
