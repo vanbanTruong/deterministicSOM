@@ -4,9 +4,7 @@ The implementation of IEEE Big Data 19 paper "A deterministic self-organizing ma
 ## Instructions
 1. Clone this repository.
 2. Import your data to the root folder.
-3. Run the code with Weka > 3.9.  
-      *In Experiment folder: InstanceStreamClassifier.java and WindowStreamClassifier.java evaluate the landmark window model       and sliding window model, respectively.  
-      *The FAHT folder contains the source code of the proposed FAHT.
+3. Run the code with Weka > 3.9 by instantiating a deterministicSOM class.
   
 ## Citation
 @inproceedings{zhang2018deterministic,  
